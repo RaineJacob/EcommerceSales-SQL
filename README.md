@@ -50,5 +50,14 @@ This project explores key business insights from an online retail dataset using 
 
 ---
 
-## 📁 File Structure
+
+---
+
+## 🚀 Next Steps
+
+- Extend to Power BI dashboards
+- Create stored procedures or views for real-time reporting
+- Apply same logic to larger datasets (Google Analytics, Shopify exports, etc.)
+
+--
 
